@@ -6,10 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": {
+      "your-command-here": "./index.js"
+    },
   "author": "David Zafirovic",
   "license": "ISC"
 }
-
-"bin": {
-    "your-command-here": "./index.js"
-  },

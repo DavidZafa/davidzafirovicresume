@@ -6,17 +6,11 @@
 "proficient-technologies": [
     "html",
     "css",
-    "javascript",
-    "react",
-    "angular",
-    "mern",
-    "mean",
-    "sql",
-    "node",
-    "mongodb"
-],
+    "javascript"
+  ],
 "other-skills": [
     "basketball",
-    "guitar"
+    "guitar",
+    "video games?"
 ]
 }
